@@ -1,0 +1,9 @@
+# ninja log v5
+2	211	1709963180047595933	ComputerScienceIA_autogen/timestamp	839ef6214fafaea1
+2	211	1709963180047595933	ComputerScienceIA_autogen/mocs_compilation.cpp	839ef6214fafaea1
+2	211	1709963180047595933	/home/epshtein/Documents/csia/build-ComputerScienceIA-Desktop-Debug/ComputerScienceIA_autogen/timestamp	839ef6214fafaea1
+2	211	1709963180047595933	/home/epshtein/Documents/csia/build-ComputerScienceIA-Desktop-Debug/ComputerScienceIA_autogen/mocs_compilation.cpp	839ef6214fafaea1
+212	1541	1709963181374280918	CMakeFiles/ComputerScienceIA.dir/main.cpp.o	5399b30b8afb22fb
+212	1604	1709963181437615127	CMakeFiles/ComputerScienceIA.dir/ComputerScienceIA_autogen/mocs_compilation.cpp.o	173fa1b313110b2d
+212	1850	1709963181684285199	CMakeFiles/ComputerScienceIA.dir/mainwindow.cpp.o	51a59243c3abac5a
+1850	2139	1709963181977622583	ComputerScienceIA	267e1e5ce5a1f52e
