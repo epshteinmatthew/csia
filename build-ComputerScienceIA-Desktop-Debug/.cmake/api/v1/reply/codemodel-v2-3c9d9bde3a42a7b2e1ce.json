@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c5fdf9d5dc358e516c19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ComputerScienceIA",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ComputerScienceIA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ComputerScienceIA-Debug-a5bcbd594694508912c7.json",
+					"name" : "ComputerScienceIA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ComputerScienceIA_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ComputerScienceIA_autogen-Debug-c767f347071c8109e99b.json",
+					"name" : "ComputerScienceIA_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ComputerScienceIA_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ComputerScienceIA_autogen_timestamp_deps-Debug-aa5949c172f47a402229.json",
+					"name" : "ComputerScienceIA_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/epshtein/Documents/csia/build-ComputerScienceIA-Desktop-Debug",
+		"source" : "/home/epshtein/Documents/csia/ComputerScienceIA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,9 +1,0 @@
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/computerScienceIA.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/list_install_components.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/install.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/install/local.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/install/strip.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/computerScienceIA_autogen_timestamp_deps.dir
-/home/epshtein/Documents/CSIA/computerScienceIA/cmake-build-debug/CMakeFiles/computerScienceIA_autogen.dir
