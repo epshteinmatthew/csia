@@ -3,6 +3,8 @@
 #include <ctime>
 using std::string;
 
+//todo: complete implementations
+
 class Interval{
     std::chrono::time_point<std::chrono::system_clock> startTime{};
     std::chrono::time_point<std::chrono::system_clock> endTime{};
